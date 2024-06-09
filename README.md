@@ -1,5 +1,8 @@
 # Image_Content_Classifier_Integrated_with_Streamlit
 ** This Repository  is invloved with NSFW datasets which is used for research and educational purpose only**
+source file for adult content from [github](https://github.com/EBazarov/nsfw_data_source_urls/tree/master) 
+source file for violence and save from [kaggle](https://www.kaggle.com/datasets/khushhalreddy/violence-detection-dataset)
+
 # Image Content Classification Model
 
 ## Objective
