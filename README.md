@@ -59,5 +59,5 @@ To increase the diversity of the training data, we applied data augmentation tec
 ### 4 Model Evaluation
 The model was evaluated using standard metrics such as accuracy, precision, recall, and F1-score to determine its performance. These metrics helped in understanding how well the model was able to classify the images into the defined categories.
 
-### 5. Streamlit Integration
+###  5. Streamlit Integration
 The trained model was integrated into a Streamlit web app. The app allows users to upload images, which are then processed and classified by the model in real-time. The app also displays the classification results and provides interactive elements to show model accuracy and other statistics
